@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Typhz.Typhz)
 
 </p>
-<div size='20px'> Hi! My name is Patrick de Araújo. Thank You for taking the time to view my GitHub Profile
+<div size='20px'> Hi! My name is Patrick Reis. Thank You for taking the time to view my GitHub Profile
 </div>
 
 <h2> About Me </h2>
