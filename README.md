@@ -6,9 +6,9 @@
 </div>
 <h2> About </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-🔭 Currently working on the BasicAPI project
-🌱 Currently reading about ThreeJs, Adonis
-💬 Ask me about Python, JavaScript, Open Source
+<!-- 🔭 Currently working on the BasicAPI project<br> -->
+🌱 Currently reading about OpenGL<br>
+💬 Ask me about TypeScript, C++, OpenGL, Low Level
 <!-- - 👯 I’m looking to collaborate on  -->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Typhz?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
